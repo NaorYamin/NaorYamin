@@ -1,1 +1,26 @@
-# NaorYamin-
+# Naor Yamin
+
+DevOps Engineer and Cloud-Native advocate. I work mainly with Linux, Microsoft Azure, Kubernetes, CI/CD pipelines, and Python.
+
+Driven by a passion for continuous learning and growth.
+
+---
+
+## ☁️ Microsoft Azure
+I am a Certified Cloud Architect specializing in the Microsoft Azure ecosystem. I design and implement secure, scalable, and enterprise-grade infrastructure. I am constantly building, testing, and expanding cloud labs to master cutting-edge Azure services and architecture patterns.
+
+---
+
+## 🛠️ Tech Stack & Skills
+* **Cloud:** Microsoft Azure (Certified Architect)
+* **Containers & Orchestration:** Kubernetes, Docker
+* **OS & Scripting:** Linux, Bash, Python
+* **Infrastructure as Code:** Terraform, Bicep
+
+---
+
+## 📬 Connect With Me
+* **LinkedIn:** [linkedin.com/in/naor-yamin](https://linkedin.com/in/naor-yamin)
+* **GitHub:** [github.com/naor-yamin](https://github.com/naor-yamin)
+
+---
