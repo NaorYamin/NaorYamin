@@ -19,8 +19,15 @@ I am a Certified Cloud Architect specializing in the Microsoft Azure ecosystem. 
 
 ---
 
+## Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## 📬 Connect With Me
 * **LinkedIn:** [linkedin.com/in/naor-yamin](https://linkedin.com/in/naor-yamin)
 * **GitHub:** [github.com/naor-yamin](https://github.com/naor-yamin)
 
----
+--- 
