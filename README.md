@@ -22,6 +22,7 @@ I am a Certified Cloud Architect specializing in the Microsoft Azure ecosystem. 
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pass the Standard Unix Password Manager](https://www.naor-yamin.com/articles/linux/pass-the-standard-unix-password-manager/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
